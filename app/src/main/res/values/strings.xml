@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">S111-APS1-FernandoDipp</string>
+    <string name="NOME_FRUTA">Digite o nome da fruta:</string>
+    <string name="NOME_HINT">Abacaxi; Banana; Caqui; Damasco</string>
+    <string name="PRECO_FRUTA">Digite o valor da fruta:</string>
+    <string name="PRECO_HINT">R$ 12,34</string>
+    <string name="MES_COLHEITA">Selecione o mês da colheita da fruta</string>
+    <string name="BOTAO_SUBMIT">SALVAR FRUTA</string>
+</resources>
